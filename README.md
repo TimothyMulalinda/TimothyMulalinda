@@ -2,9 +2,7 @@
 
 https://www.hackerrank.com/certificates/11845d80414b
 
-https://www.cloudskillsboost.google/public_profiles/225e174c-a928-49da-909c-e809309a7b89/badges/3401161
-
-https://www.cloudskillsboost.google/public_profiles/225e174c-a928-49da-909c-e809309a7b89/badges/3400807
+https://www.cloudskillsboost.google/public_profiles/225e174c-a928-49da-909c-e809309a7b89
 
 <!--
 **TimothyMulalinda/TimothyMulalinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
